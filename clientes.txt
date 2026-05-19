@@ -206,19 +206,6 @@ KEYS DE 1 DIA
 
 
 
-minatoreplay-01d-S3B9-Z1X4@18-05-2026 11:49:00
-minatoreplay-01d-I9J2-L4R7@18-05-2026 12:39:00
-minatoreplay-01d-N6W1-Q8H5@18-05-2026 14:19:00
-minatoreplay-01d-D4G8-V2C1@18-05-2026 14:49:00
-minatoreplay-01d-W1M7-X9P4@18-05-2026 18:09:00
-minatoreplay-01d-O5B3-K2L8@18-05-2026 18:28:00
-minatoreplay-01d-A7T9-S4V2@18-05-2026 19:02:00
-minatoreplay-01d-K2H5-Z8N1@18-05-2026 20:09:00
-minatoreplay-01d-U9L3-M1W7@18-05-2026 22:09:00
-minatoreplay-01d-G3C2-P4R9@18-05-2026 22:49:00
-minatoreplay-01d-X5X1-D7G3@18-05-2026 22:49:00
-minatoreplay-01d-B8N4-Y6Q2@18-05-2026 22:59:00
-minatoreplay-01d-L1K7-F5B9@18-05-2026 23:19:00
 minatoreplay-01d-P4T2-J3W8@19-05-2026 12:56:00
 minatoreplay-01d-K9X2-B7L4@19-05-2026 13:00:00
 minatoreplay-01d-V4M1-P8R9@19-05-2026 16:38:00
