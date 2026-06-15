@@ -194,34 +194,16 @@ KEYS DE 1 DIA
 
 
 
-minatoreplay-01d-C9V8-X1K5@12-06-2026 11:23:59
-minatoreplay-01d-K6R2-H7L9@12-06-2026 22:47:59
-minatoreplay-01d-Z5J1-F4T8@13-06-2026 01:49:59
-minatoreplay-01d-W2S9-M3N7@13-06-2026 10:41:59
-minatoreplay-01d-Q4B8-R1V2@13-06-2026 12:22:59
-minatoreplay-01d-Y7T3-K9X4@13-06-2026 12:26:59
-minatoreplay-01d-U1G6-L5P2@13-06-2026 13:36:59
-minatoreplay-01d-O8D2-V4N9@13-06-2026 21:17:59
-minatoreplay-01d-X6M4-S7Z1@13-06-2026 23:12:59
-minatoreplay-01d-F2K9-A3W8@13-06-2026 23:20:59
-minatoreplay-01d-T5P1-J8H4@13-06-2026 23:32:59
-minatoreplay-01d-L3V7-C9M2@14-06-2026 12:39:59
-minatoreplay-01d-H1Z6-G4K3@14-06-2026 13:43:59
-minatoreplay-01d-P9W3-S7L8@14-06-2026 14:15:59
-minatoreplay-01d-D4N2-V1T9@14-06-2026 22:50:59
-minatoreplay-01d-M7C5-K8P1@14-06-2026 23:50:59
-minatoreplay-01d-U2J8-F3X4@14-06-2026 23:50:59
-minatoreplay-01d-A6R1-Z9N5@14-06-2026 23:50:59
-minatoreplay-01d-V3T7-G2L4@15-06-2026 02:28:59
+
 minatoreplay-01d-K8B9-M5P1@15-06-2026 13:05:59
 minatoreplay-01d-S1W4-X7H2@15-06-2026 14:50:59
 minatoreplay-01d-N4K3-F9V8@15-06-2026 14:50:59
 minatoreplay-01d-Y9G2-C1M5@15-06-2026 16:10:59
 minatoreplay-01d-J5P8-L3R4@15-06-2026 19:09:59
 minatoreplay-01d-W1Z7-H6N3@15-06-2026 19:42:59
-minatoreplay-01d-O4X9-V2B7@30-06-2026 23:50:59
-minatoreplay-01d-T8D1-S5K4@30-06-2026 23:50:59
-minatoreplay-01d-B2M6-A9Q8@30-06-2026 23:50:59
+minatoreplay-01d-O4X9-V2B7@15-06-2026 21:50:59
+minatoreplay-01d-T8D1-S5K4@15-06-2026 23:50:59
+minatoreplay-01d-B2M6-A9Q8@16-06-2026 13:19:59
 minatoreplay-01d-F7N3-R1V5@30-06-2026 23:50:59
 minatoreplay-01d-H4K8-P3T2@30-06-2026 23:50:59
 minatoreplay-01d-Z1C5-L9W4@30-06-2026 23:50:59
