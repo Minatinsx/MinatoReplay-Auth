@@ -5,11 +5,12 @@ minatoreplay-07d-K8J2-L9P1@31-12-2050 23:59:59
 
 KEY 30 DIAS
 minatoreplay-30d-A9W1-Z4X8@15-09-2026 18:40:59
-minatoreplay-30d-C6D2-H7G5@30-08-2026 23:59:59
-minatoreplay-30d-Y2T7-B8M4@21-08-2026 23:59:59
-minatoreplay-30d-S1G9-F6H3@21-08-2026 23:59:59
-minatoreplay-30d-K4J5-R2Q8@21-08-2026 23:59:59
-minatoreplay-30d-E0X7-N1V9@21-08-2026 23:59:59
+minatoreplay-30d-P3L0-V5N2@30-09-2026 18:40:59
+minatoreplay-30d-C6D2-H7G5@30-09-2026 23:59:59
+minatoreplay-30d-Y2T7-B8M4@21-09-2026 23:59:59
+minatoreplay-30d-S1G9-F6H3@21-09-2026 23:59:59
+minatoreplay-30d-K4J5-R2Q8@21-09-2026 23:59:59
+minatoreplay-30d-E0X7-N1V9@21-09-2026 23:59:59
 minatoreplay-30d-M3B6-Z2W4@21-08-2026 23:59:59
 minatoreplay-30d-U9P2-L8K5@21-08-2026 23:59:59
 minatoreplay-30d-T4H1-R7G3@21-08-2026 23:59:59
