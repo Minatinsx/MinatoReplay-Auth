@@ -87,7 +87,6 @@ KEYS DE 3 DIAS
 
 
 
-minatoreplay-03d-H3N9-S1P7@20-08-2026 22:36:59
 minatoreplay-03d-A5Z2-K8L0@24-08-2026 19:50:59
 minatoreplay-03d-X8W1-C3V9@30-08-2026 23:59:59
 minatoreplay-03d-R2B6-Q9N4@30-08-2026 23:59:59
@@ -170,11 +169,7 @@ KEYS DE 1 DIA
  
 
 
-minatoreplay-01d-D1N5-Z8V2@20-08-2026 15:50:59
-minatoreplay-01d-S7W3-L4P8@20-08-2026 19:55:59
-minatoreplay-01d-A1B2-C3D4@21-08-2026 02:20:59
-minatoreplay-01d-E5F6-G7H8@21-08-2026 14:49:59
-minatoreplay-01d-I9J0-K1L2@21-08-2026 19:58:59
+
 minatoreplay-01d-M3N4-O5P6@22-08-2026 14:09:59
 minatoreplay-01d-Q7R8-S9T0@22-08-2026 20:39:59
 minatoreplay-01d-U1V2-W3X4@30-08-2026 23:50:59
